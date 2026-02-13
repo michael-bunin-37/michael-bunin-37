@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mikhail Bunin
 
-**Senior Frontend Developer | React & Next.js | High-Performance Architect**
+**Frontend Engineer | React & Next.js | High-Performance Architect**
 
 📍 Kyiv / Chernihiv, Ukraine  
 💻 Remote (Full-time)  
