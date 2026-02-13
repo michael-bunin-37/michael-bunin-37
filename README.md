@@ -101,7 +101,7 @@ I focus on building frontend systems that remain fast and predictable under heav
 
 ## 💼 Experience Highlights
 
-### 🟣 Senior Frontend Engineer — PROMTHEON AI
+### 🟣 Frontend Engineer — PROMTHEON AI
 - Architecting scalable AI multi-tool platform
 - Implementing concurrent rendering patterns
 - Building streaming real-time interfaces
