@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mikhail Bunin
+# 👋 Hi, I'm Mikhail
 
 **Frontend Engineer | React & Next.js | High-Performance Architect**
 
