@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Frontend Engineer with 4+ years of experience building high-load, real-time and data-intensive platforms.
+Frontend Engineer with 5+ years of experience building high-load, real-time and data-intensive platforms.
 
 I specialize in scalable React architecture, concurrent rendering, real-time systems, and performance optimization for large-scale applications.
 
