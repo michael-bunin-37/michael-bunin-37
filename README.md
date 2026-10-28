@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mikhail
+# 👋 Hi, I'm Nykhailo
 
 **Frontend Engineer | React & Next.js | High-Performance Architect**
 
